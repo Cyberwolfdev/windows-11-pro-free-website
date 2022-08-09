@@ -19,7 +19,7 @@ The answer is almost yes! You can switch from almost any edition to Pro complete
 ## Note for users with unactivated Pro edition
 People which already have Pro, but not activated, can skip to [this step](https://gist.github.com/Minionguyjpro/d913b3931e844ad8ad9a758a4aca4b63#activating-windows-pro).
 ## I get a notification: ``Your Windows license will expire soon`` or something that way. What do i do?
-Don't worry. It will get renewed, if not then i will update this guide as soon as i can and make sure it is up-to-date so you can stay enjoy your free license. **For users which used this guide to activate with the first or second method and now get this message everytime, use the third method to activate it forever.**
+Don't worry. It will get renewed, if not then op will update this guide as soon as op can and make sure it is up-to-date so you can stay enjoy your free license. **For users which used this guide to activate with the first or second method and now get this message everytime, use the third method to activate it forever.**
 ## Getting started
 What you first need to do is open CMD (Command Prompt) as Administrator using this keyboard key:
 
@@ -128,7 +128,7 @@ Download the batch file by [clicking here](https://freakinsoftmania.unaux.com/pr
 Now it will start downloading this file and click ``Save`` if asked. Now open Windows Explorer. Go to the directory where it got downloaded, and double click it. It will open a Command Prompt Console (Windows Terminal, Windows Console Host or any other). It will soon ask UAC  permissions, and then click ``Yes``. Now when you see a menu with options, click ``2`` on your keyboard. Now wait until it is done! And it is activated!
 
 # Video Tutorial
-No one yet. You are allowed to make one for me and share it. Or i will add one soon.
+No one yet. You are allowed to make one for me and share it. Or op will add one soon.
 # Last Words
 I hope you enjoy it!
 If you have any further questions, you can email me at Minionguyjpro@gmail.com or comment on this guide.
