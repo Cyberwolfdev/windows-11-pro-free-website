@@ -1,3 +1,6 @@
+op = orignal poster
+not orginal post
+
 An guide how to activate Windows 10 AND 11 Pro for free
 ##### Table of Contents  
 * [Why?](#why)
