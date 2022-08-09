@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Cyberwolfdev/windows-11-pro-free-An guide how to activate Windows 10 AND 11 Pro for free
+## how to activate windows 11 and 10 for free
+this is not my guide
+An guide how to activate Windows 10 AND 11 Pro for free
 ##### Table of Contents  
 * [Why?](#why)
 * [Am i also able to switch from any other edition to Pro?](#am-i-also-able-to-switch-from-any-other-edition-to-pro)
