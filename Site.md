@@ -131,7 +131,7 @@ Download the batch file by [clicking here](https://freakinsoftmania.unaux.com/pr
 Now it will start downloading this file and click ``Save`` if asked. Now open Windows Explorer. Go to the directory where it got downloaded, and double click it. It will open a Command Prompt Console (Windows Terminal, Windows Console Host or any other). It will soon ask UAC  permissions, and then click ``Yes``. Now when you see a menu with options, click ``2`` on your keyboard. Now wait until it is done! And it is activated!
 
 # Video Tutorial
-No one yet. You are allowed to make one for me and share it. Or op will add one soon.
+No one yet. You are allowed to make one for op and share it. Or op will add one soon.
 # Last Words
-I hope you enjoy it!
-If you have any further questions, you can email me at Minionguyjpro@gmail.com or comment on this guide.
+op hopes you enjoy it!
+If you have any further questions, you can email op at Minionguyjpro@gmail.com or comment on this guide.
